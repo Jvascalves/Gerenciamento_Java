@@ -1,16 +1,6 @@
 # Gerenciamento_Java
 
-PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS
-Instituto de Ciências Exatas e Informática - Curso de Sistemas de Informação – São Gabriel (manhã)
-Algoritmos e Estruturas de Dados
-Laboratório de Algoritmos e Estruturas de Dados
-Arquitetura de Computadores
-Profs.: Carlos Barreto Ribas e Rosilane Mota
-
 Trabalho Prático – Individual
-(Valor: 20 pontos)
-
-Objetivo: Aplicar conhecimentos adquiridos em sala de aula em um enunciado mais elaborado e inserido no contexto mercadológico
 
 Problema a ser resolvido
 
@@ -44,24 +34,3 @@ ii. Indentação - utilize indentação para mostrar a estrutura lógica do prog
 iii. Nomes de variáveis e métodos - escolha nomes representativos.
 iv. Espaços e linhas em branco – utilizar espaços e linhas em branco para melhorar a legibilidade, por exemplo, depois de comentários.
 v. Simplicidade da solução – sempre que possível, optar pela forma mais simples de resolver um problema.
-
-•	Os trabalhos deverão ser postados no Canvas.
-
-Pontos Extras 
-
-Serão avaliados em até 5 pontos extras a inclusão dos seguintes aspectos:
-•	Elaboração de classes que contenham as informações de cada tipo de produto (tipo, quantidade, custo, preço de venda, etc), construtores e métodos para manipulação destas informações;
-•	Uso de arquivos texto para leitura das informações e para geração dos relatórios.
-
-Entrega
-
-Deverão ser entregues pelo Canvas:
-
-1. Valor total do trabalho: 10,0 pontos.
-i. Corretude do programa – 5,0
-ii. Legibilidade do programa – 2,0
-iii. Documentação – 3,0
-2. O trabalho pode ser feito individual ou em dupla.
-
-Observações: não deixe para a última hora. Não serão aceitos trabalhos enviados por e-mail ou por chat.
-Observação: Trabalhos copiados receberão nota zero, incluindo conjuntos de trabalhos considerados muito semelhantes.
